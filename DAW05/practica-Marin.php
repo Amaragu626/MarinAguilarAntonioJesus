@@ -55,4 +55,8 @@ function anhosFaltantesRestantes($anho):string|int{
     return $resultado;
 }
 
+function pruebaPracticaGit(){
+	return 1;
+}
+
 ?>
